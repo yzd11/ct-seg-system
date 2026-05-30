@@ -1,0 +1,47 @@
+# U-Net 基线实验配置
+# 用法：python train.py --config experiments/configs/unet_baseline.yaml
+
+experiment_name: unet_baseline
+model_name: attention_unet_pp
+seed: 3407
+
+# 数据
+data_root: /root/autodl-tmp/LiTS
+img_size: 256
+in_channels: 3
+num_classes: 3
+
+# 训练
+epochs: 100
+batch_size: 8
+num_workers: 4
+lr: 0.001
+weight_decay: 0.0
+
+# 学习率调度
+scheduler_name: steplr
+scheduler_step_size: 20
+scheduler_gamma: 0.1
+
+# 早停
+early_stopping_patience: 15
+early_stopping_metric: combined_dice
+
+# 混合精度
+use_amp: true
+
+# 损失函数
+ce_weight: 0.5
+dice_weight: 0.5
+tumor_weight: 3.0
+
+# 模型保存
+save_metric_liver_weight: 0.4
+save_metric_tumor_weight: 0.6
+
+# 交叉验证
+fold_id: 0
+n_folds: 5
+
+# 数据增强
+augmentation_level: basic

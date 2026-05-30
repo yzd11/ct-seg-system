@@ -1,0 +1,141 @@
+nohup: ignoring input
+=== Sat May 16 01:18:53 CST 2026 ===
+  Fold 0: Epoch [ 55/100] | Train Loss: 0.1359 | Valid Loss: 0.1181 | Dice L: 0.8997 | Dice T: 0.7680 | Combined: 0.8207 | LR: 1.00e-05 | Time: 516.6s
+  Fold 1: Epoch [ 57/100] | Train Loss: 0.1738 | Valid Loss: 0.0793 | Dice L: 0.9001 | Dice T: 0.8412 | Combined: 0.8647 | LR: 1.00e-05 | Time: 513.4s
+  Fold 2: Epoch [ 37/100] | Train Loss: 0.1735 | Valid Loss: 0.1688 | Dice L: 0.8663 | Dice T: 0.7571 | Combined: 0.8008 | LR: 1.00e-04 | Time: 512.4s
+  Fold 3: Epoch [ 74/100] | Train Loss: 0.1770 | Valid Loss: 0.1171 | Dice L: 0.9047 | Dice T: 0.7902 | Combined: 0.8360 | LR: 1.00e-06 | Time: 516.6s
+  Fold 4: Epoch [ 42/100] | Train Loss: 0.1754 | Valid Loss: 0.1117 | Dice L: 0.8816 | Dice T: 0.8138 | Combined: 0.8409 | LR: 1.00e-05 | Time: 525.4s
+=== Sat May 16 01:23:56 CST 2026 ===
+  Fold 0: Epoch [ 55/100] | Train Loss: 0.1359 | Valid Loss: 0.1181 | Dice L: 0.8997 | Dice T: 0.7680 | Combined: 0.8207 | LR: 1.00e-05 | Time: 516.6s
+  Fold 1: Epoch [ 57/100] | Train Loss: 0.1738 | Valid Loss: 0.0793 | Dice L: 0.9001 | Dice T: 0.8412 | Combined: 0.8647 | LR: 1.00e-05 | Time: 513.4s
+  Fold 2: Epoch [ 37/100] | Train Loss: 0.1735 | Valid Loss: 0.1688 | Dice L: 0.8663 | Dice T: 0.7571 | Combined: 0.8008 | LR: 1.00e-04 | Time: 512.4s
+  Fold 3: Epoch [ 74/100] | Train Loss: 0.1770 | Valid Loss: 0.1171 | Dice L: 0.9047 | Dice T: 0.7902 | Combined: 0.8360 | LR: 1.00e-06 | Time: 516.6s
+  Fold 4: Epoch [ 43/100] | Train Loss: 0.1751 | Valid Loss: 0.1114 | Dice L: 0.8811 | Dice T: 0.8125 | Combined: 0.8400 | LR: 1.00e-05 | Time: 525.7s
+=== Sat May 16 01:28:58 CST 2026 ===
+  Fold 0: Epoch [ 55/100] | Train Loss: 0.1359 | Valid Loss: 0.1181 | Dice L: 0.8997 | Dice T: 0.7680 | Combined: 0.8207 | LR: 1.00e-05 | Time: 516.6s
+  Fold 1: Epoch [ 57/100] | Train Loss: 0.1738 | Valid Loss: 0.0793 | Dice L: 0.9001 | Dice T: 0.8412 | Combined: 0.8647 | LR: 1.00e-05 | Time: 513.4s
+  Fold 2: Epoch [ 37/100] | Train Loss: 0.1735 | Valid Loss: 0.1688 | Dice L: 0.8663 | Dice T: 0.7571 | Combined: 0.8008 | LR: 1.00e-04 | Time: 512.4s
+  Fold 3: Epoch [ 74/100] | Train Loss: 0.1770 | Valid Loss: 0.1171 | Dice L: 0.9047 | Dice T: 0.7902 | Combined: 0.8360 | LR: 1.00e-06 | Time: 516.6s
+  Fold 4: Epoch [ 44/100] | Train Loss: 0.1749 | Valid Loss: 0.1124 | Dice L: 0.8828 | Dice T: 0.8107 | Combined: 0.8396 | LR: 1.00e-05 | Time: 525.3s
+=== Sat May 16 01:34:01 CST 2026 ===
+  Fold 0: Epoch [ 55/100] | Train Loss: 0.1359 | Valid Loss: 0.1181 | Dice L: 0.8997 | Dice T: 0.7680 | Combined: 0.8207 | LR: 1.00e-05 | Time: 516.6s
+  Fold 1: Epoch [ 57/100] | Train Loss: 0.1738 | Valid Loss: 0.0793 | Dice L: 0.9001 | Dice T: 0.8412 | Combined: 0.8647 | LR: 1.00e-05 | Time: 513.4s
+  Fold 2: Epoch [ 37/100] | Train Loss: 0.1735 | Valid Loss: 0.1688 | Dice L: 0.8663 | Dice T: 0.7571 | Combined: 0.8008 | LR: 1.00e-04 | Time: 512.4s
+  Fold 3: Epoch [ 74/100] | Train Loss: 0.1770 | Valid Loss: 0.1171 | Dice L: 0.9047 | Dice T: 0.7902 | Combined: 0.8360 | LR: 1.00e-06 | Time: 516.6s
+  Fold 4: Epoch [ 44/100] | Train Loss: 0.1749 | Valid Loss: 0.1124 | Dice L: 0.8828 | Dice T: 0.8107 | Combined: 0.8396 | LR: 1.00e-05 | Time: 525.3s
+=== Sat May 16 01:39:03 CST 2026 ===
+  Fold 0: Epoch [ 55/100] | Train Loss: 0.1359 | Valid Loss: 0.1181 | Dice L: 0.8997 | Dice T: 0.7680 | Combined: 0.8207 | LR: 1.00e-05 | Time: 516.6s
+  Fold 1: Epoch [ 57/100] | Train Loss: 0.1738 | Valid Loss: 0.0793 | Dice L: 0.9001 | Dice T: 0.8412 | Combined: 0.8647 | LR: 1.00e-05 | Time: 513.4s
+  Fold 2: Epoch [ 37/100] | Train Loss: 0.1735 | Valid Loss: 0.1688 | Dice L: 0.8663 | Dice T: 0.7571 | Combined: 0.8008 | LR: 1.00e-04 | Time: 512.4s
+  Fold 3: Epoch [ 74/100] | Train Loss: 0.1770 | Valid Loss: 0.1171 | Dice L: 0.9047 | Dice T: 0.7902 | Combined: 0.8360 | LR: 1.00e-06 | Time: 516.6s
+  Fold 4: Epoch [ 45/100] | Train Loss: 0.1747 | Valid Loss: 0.1121 | Dice L: 0.8804 | Dice T: 0.8139 | Combined: 0.8405 | LR: 1.00e-05 | Time: 525.0s
+=== Sat May 16 01:44:05 CST 2026 ===
+  Fold 0: Epoch [ 55/100] | Train Loss: 0.1359 | Valid Loss: 0.1181 | Dice L: 0.8997 | Dice T: 0.7680 | Combined: 0.8207 | LR: 1.00e-05 | Time: 516.6s
+  Fold 1: Epoch [ 57/100] | Train Loss: 0.1738 | Valid Loss: 0.0793 | Dice L: 0.9001 | Dice T: 0.8412 | Combined: 0.8647 | LR: 1.00e-05 | Time: 513.4s
+  Fold 2: Epoch [ 37/100] | Train Loss: 0.1735 | Valid Loss: 0.1688 | Dice L: 0.8663 | Dice T: 0.7571 | Combined: 0.8008 | LR: 1.00e-04 | Time: 512.4s
+  Fold 3: Epoch [ 74/100] | Train Loss: 0.1770 | Valid Loss: 0.1171 | Dice L: 0.9047 | Dice T: 0.7902 | Combined: 0.8360 | LR: 1.00e-06 | Time: 516.6s
+  Fold 4: Epoch [ 45/100] | Train Loss: 0.1747 | Valid Loss: 0.1121 | Dice L: 0.8804 | Dice T: 0.8139 | Combined: 0.8405 | LR: 1.00e-05 | Time: 525.0s
+=== Sat May 16 01:49:08 CST 2026 ===
+  Fold 0: Epoch [ 55/100] | Train Loss: 0.1359 | Valid Loss: 0.1181 | Dice L: 0.8997 | Dice T: 0.7680 | Combined: 0.8207 | LR: 1.00e-05 | Time: 516.6s
+  Fold 1: Epoch [ 57/100] | Train Loss: 0.1738 | Valid Loss: 0.0793 | Dice L: 0.9001 | Dice T: 0.8412 | Combined: 0.8647 | LR: 1.00e-05 | Time: 513.4s
+  Fold 2: Epoch [ 37/100] | Train Loss: 0.1735 | Valid Loss: 0.1688 | Dice L: 0.8663 | Dice T: 0.7571 | Combined: 0.8008 | LR: 1.00e-04 | Time: 512.4s
+  Fold 3: Epoch [ 74/100] | Train Loss: 0.1770 | Valid Loss: 0.1171 | Dice L: 0.9047 | Dice T: 0.7902 | Combined: 0.8360 | LR: 1.00e-06 | Time: 516.6s
+  Fold 4: Epoch [ 46/100] | Train Loss: 0.1747 | Valid Loss: 0.1115 | Dice L: 0.8835 | Dice T: 0.8125 | Combined: 0.8409 | LR: 1.00e-05 | Time: 524.8s
+=== Sat May 16 01:54:10 CST 2026 ===
+  Fold 0: Epoch [ 55/100] | Train Loss: 0.1359 | Valid Loss: 0.1181 | Dice L: 0.8997 | Dice T: 0.7680 | Combined: 0.8207 | LR: 1.00e-05 | Time: 516.6s
+  Fold 1: Epoch [ 57/100] | Train Loss: 0.1738 | Valid Loss: 0.0793 | Dice L: 0.9001 | Dice T: 0.8412 | Combined: 0.8647 | LR: 1.00e-05 | Time: 513.4s
+  Fold 2: Epoch [ 37/100] | Train Loss: 0.1735 | Valid Loss: 0.1688 | Dice L: 0.8663 | Dice T: 0.7571 | Combined: 0.8008 | LR: 1.00e-04 | Time: 512.4s
+  Fold 3: Epoch [ 74/100] | Train Loss: 0.1770 | Valid Loss: 0.1171 | Dice L: 0.9047 | Dice T: 0.7902 | Combined: 0.8360 | LR: 1.00e-06 | Time: 516.6s
+  Fold 4: Epoch [ 46/100] | Train Loss: 0.1747 | Valid Loss: 0.1115 | Dice L: 0.8835 | Dice T: 0.8125 | Combined: 0.8409 | LR: 1.00e-05 | Time: 524.8s
+=== Sat May 16 01:59:13 CST 2026 ===
+  Fold 0: Epoch [ 55/100] | Train Loss: 0.1359 | Valid Loss: 0.1181 | Dice L: 0.8997 | Dice T: 0.7680 | Combined: 0.8207 | LR: 1.00e-05 | Time: 516.6s
+  Fold 1: Epoch [ 57/100] | Train Loss: 0.1738 | Valid Loss: 0.0793 | Dice L: 0.9001 | Dice T: 0.8412 | Combined: 0.8647 | LR: 1.00e-05 | Time: 513.4s
+  Fold 2: Epoch [ 37/100] | Train Loss: 0.1735 | Valid Loss: 0.1688 | Dice L: 0.8663 | Dice T: 0.7571 | Combined: 0.8008 | LR: 1.00e-04 | Time: 512.4s
+  Fold 3: Epoch [ 74/100] | Train Loss: 0.1770 | Valid Loss: 0.1171 | Dice L: 0.9047 | Dice T: 0.7902 | Combined: 0.8360 | LR: 1.00e-06 | Time: 516.6s
+  Fold 4: Epoch [ 47/100] | Train Loss: 0.1743 | Valid Loss: 0.1109 | Dice L: 0.8822 | Dice T: 0.8157 | Combined: 0.8423 | LR: 1.00e-05 | Time: 524.3s
+=== Sat May 16 02:04:15 CST 2026 ===
+  Fold 0: Epoch [ 55/100] | Train Loss: 0.1359 | Valid Loss: 0.1181 | Dice L: 0.8997 | Dice T: 0.7680 | Combined: 0.8207 | LR: 1.00e-05 | Time: 516.6s
+  Fold 1: Epoch [ 57/100] | Train Loss: 0.1738 | Valid Loss: 0.0793 | Dice L: 0.9001 | Dice T: 0.8412 | Combined: 0.8647 | LR: 1.00e-05 | Time: 513.4s
+  Fold 2: Epoch [ 37/100] | Train Loss: 0.1735 | Valid Loss: 0.1688 | Dice L: 0.8663 | Dice T: 0.7571 | Combined: 0.8008 | LR: 1.00e-04 | Time: 512.4s
+  Fold 3: Epoch [ 74/100] | Train Loss: 0.1770 | Valid Loss: 0.1171 | Dice L: 0.9047 | Dice T: 0.7902 | Combined: 0.8360 | LR: 1.00e-06 | Time: 516.6s
+  Fold 4: Epoch [ 48/100] | Train Loss: 0.1748 | Valid Loss: 0.1126 | Dice L: 0.8815 | Dice T: 0.8119 | Combined: 0.8397 | LR: 1.00e-05 | Time: 524.3s
+=== Sat May 16 02:09:18 CST 2026 ===
+  Fold 0: Epoch [ 55/100] | Train Loss: 0.1359 | Valid Loss: 0.1181 | Dice L: 0.8997 | Dice T: 0.7680 | Combined: 0.8207 | LR: 1.00e-05 | Time: 516.6s
+  Fold 1: Epoch [ 57/100] | Train Loss: 0.1738 | Valid Loss: 0.0793 | Dice L: 0.9001 | Dice T: 0.8412 | Combined: 0.8647 | LR: 1.00e-05 | Time: 513.4s
+  Fold 2: Epoch [ 37/100] | Train Loss: 0.1735 | Valid Loss: 0.1688 | Dice L: 0.8663 | Dice T: 0.7571 | Combined: 0.8008 | LR: 1.00e-04 | Time: 512.4s
+  Fold 3: Epoch [ 74/100] | Train Loss: 0.1770 | Valid Loss: 0.1171 | Dice L: 0.9047 | Dice T: 0.7902 | Combined: 0.8360 | LR: 1.00e-06 | Time: 516.6s
+  Fold 4: Epoch [ 48/100] | Train Loss: 0.1748 | Valid Loss: 0.1126 | Dice L: 0.8815 | Dice T: 0.8119 | Combined: 0.8397 | LR: 1.00e-05 | Time: 524.3s
+=== Sat May 16 02:14:20 CST 2026 ===
+  Fold 0: Epoch [ 55/100] | Train Loss: 0.1359 | Valid Loss: 0.1181 | Dice L: 0.8997 | Dice T: 0.7680 | Combined: 0.8207 | LR: 1.00e-05 | Time: 516.6s
+  Fold 1: Epoch [ 57/100] | Train Loss: 0.1738 | Valid Loss: 0.0793 | Dice L: 0.9001 | Dice T: 0.8412 | Combined: 0.8647 | LR: 1.00e-05 | Time: 513.4s
+  Fold 2: Epoch [ 37/100] | Train Loss: 0.1735 | Valid Loss: 0.1688 | Dice L: 0.8663 | Dice T: 0.7571 | Combined: 0.8008 | LR: 1.00e-04 | Time: 512.4s
+  Fold 3: Epoch [ 74/100] | Train Loss: 0.1770 | Valid Loss: 0.1171 | Dice L: 0.9047 | Dice T: 0.7902 | Combined: 0.8360 | LR: 1.00e-06 | Time: 516.6s
+  Fold 4: Epoch [ 49/100] | Train Loss: 0.1744 | Valid Loss: 0.1132 | Dice L: 0.8811 | Dice T: 0.8096 | Combined: 0.8382 | LR: 1.00e-05 | Time: 524.1s
+=== Sat May 16 02:19:23 CST 2026 ===
+  Fold 0: Epoch [ 55/100] | Train Loss: 0.1359 | Valid Loss: 0.1181 | Dice L: 0.8997 | Dice T: 0.7680 | Combined: 0.8207 | LR: 1.00e-05 | Time: 516.6s
+  Fold 1: Epoch [ 57/100] | Train Loss: 0.1738 | Valid Loss: 0.0793 | Dice L: 0.9001 | Dice T: 0.8412 | Combined: 0.8647 | LR: 1.00e-05 | Time: 513.4s
+  Fold 2: Epoch [ 37/100] | Train Loss: 0.1735 | Valid Loss: 0.1688 | Dice L: 0.8663 | Dice T: 0.7571 | Combined: 0.8008 | LR: 1.00e-04 | Time: 512.4s
+  Fold 3: Epoch [ 74/100] | Train Loss: 0.1770 | Valid Loss: 0.1171 | Dice L: 0.9047 | Dice T: 0.7902 | Combined: 0.8360 | LR: 1.00e-06 | Time: 516.6s
+  Fold 4: Epoch [ 49/100] | Train Loss: 0.1744 | Valid Loss: 0.1132 | Dice L: 0.8811 | Dice T: 0.8096 | Combined: 0.8382 | LR: 1.00e-05 | Time: 524.1s
+=== Sat May 16 02:24:25 CST 2026 ===
+  Fold 0: Epoch [ 55/100] | Train Loss: 0.1359 | Valid Loss: 0.1181 | Dice L: 0.8997 | Dice T: 0.7680 | Combined: 0.8207 | LR: 1.00e-05 | Time: 516.6s
+  Fold 1: Epoch [ 57/100] | Train Loss: 0.1738 | Valid Loss: 0.0793 | Dice L: 0.9001 | Dice T: 0.8412 | Combined: 0.8647 | LR: 1.00e-05 | Time: 513.4s
+  Fold 2: Epoch [ 37/100] | Train Loss: 0.1735 | Valid Loss: 0.1688 | Dice L: 0.8663 | Dice T: 0.7571 | Combined: 0.8008 | LR: 1.00e-04 | Time: 512.4s
+  Fold 3: Epoch [ 74/100] | Train Loss: 0.1770 | Valid Loss: 0.1171 | Dice L: 0.9047 | Dice T: 0.7902 | Combined: 0.8360 | LR: 1.00e-06 | Time: 516.6s
+  Fold 4: Epoch [ 50/100] | Train Loss: 0.1747 | Valid Loss: 0.1118 | Dice L: 0.8834 | Dice T: 0.8123 | Combined: 0.8407 | LR: 1.00e-05 | Time: 524.8s
+=== Sat May 16 02:29:27 CST 2026 ===
+  Fold 0: Epoch [ 55/100] | Train Loss: 0.1359 | Valid Loss: 0.1181 | Dice L: 0.8997 | Dice T: 0.7680 | Combined: 0.8207 | LR: 1.00e-05 | Time: 516.6s
+  Fold 1: Epoch [ 57/100] | Train Loss: 0.1738 | Valid Loss: 0.0793 | Dice L: 0.9001 | Dice T: 0.8412 | Combined: 0.8647 | LR: 1.00e-05 | Time: 513.4s
+  Fold 2: Epoch [ 37/100] | Train Loss: 0.1735 | Valid Loss: 0.1688 | Dice L: 0.8663 | Dice T: 0.7571 | Combined: 0.8008 | LR: 1.00e-04 | Time: 512.4s
+  Fold 3: Epoch [ 74/100] | Train Loss: 0.1770 | Valid Loss: 0.1171 | Dice L: 0.9047 | Dice T: 0.7902 | Combined: 0.8360 | LR: 1.00e-06 | Time: 516.6s
+  Fold 4: Epoch [ 51/100] | Train Loss: 0.1745 | Valid Loss: 0.1138 | Dice L: 0.8818 | Dice T: 0.8086 | Combined: 0.8379 | LR: 1.00e-05 | Time: 524.0s
+=== Sat May 16 02:34:30 CST 2026 ===
+  Fold 0: Epoch [ 55/100] | Train Loss: 0.1359 | Valid Loss: 0.1181 | Dice L: 0.8997 | Dice T: 0.7680 | Combined: 0.8207 | LR: 1.00e-05 | Time: 516.6s
+  Fold 1: Epoch [ 57/100] | Train Loss: 0.1738 | Valid Loss: 0.0793 | Dice L: 0.9001 | Dice T: 0.8412 | Combined: 0.8647 | LR: 1.00e-05 | Time: 513.4s
+  Fold 2: Epoch [ 37/100] | Train Loss: 0.1735 | Valid Loss: 0.1688 | Dice L: 0.8663 | Dice T: 0.7571 | Combined: 0.8008 | LR: 1.00e-04 | Time: 512.4s
+  Fold 3: Epoch [ 74/100] | Train Loss: 0.1770 | Valid Loss: 0.1171 | Dice L: 0.9047 | Dice T: 0.7902 | Combined: 0.8360 | LR: 1.00e-06 | Time: 516.6s
+  Fold 4: Epoch [ 51/100] | Train Loss: 0.1745 | Valid Loss: 0.1138 | Dice L: 0.8818 | Dice T: 0.8086 | Combined: 0.8379 | LR: 1.00e-05 | Time: 524.0s
+=== Sat May 16 02:39:33 CST 2026 ===
+  Fold 0: Epoch [ 55/100] | Train Loss: 0.1359 | Valid Loss: 0.1181 | Dice L: 0.8997 | Dice T: 0.7680 | Combined: 0.8207 | LR: 1.00e-05 | Time: 516.6s
+  Fold 1: Epoch [ 57/100] | Train Loss: 0.1738 | Valid Loss: 0.0793 | Dice L: 0.9001 | Dice T: 0.8412 | Combined: 0.8647 | LR: 1.00e-05 | Time: 513.4s
+  Fold 2: Epoch [ 37/100] | Train Loss: 0.1735 | Valid Loss: 0.1688 | Dice L: 0.8663 | Dice T: 0.7571 | Combined: 0.8008 | LR: 1.00e-04 | Time: 512.4s
+  Fold 3: Epoch [ 74/100] | Train Loss: 0.1770 | Valid Loss: 0.1171 | Dice L: 0.9047 | Dice T: 0.7902 | Combined: 0.8360 | LR: 1.00e-06 | Time: 516.6s
+  Fold 4: Epoch [ 52/100] | Train Loss: 0.1741 | Valid Loss: 0.1113 | Dice L: 0.8814 | Dice T: 0.8138 | Combined: 0.8408 | LR: 1.00e-05 | Time: 525.0s
+=== Sat May 16 02:44:35 CST 2026 ===
+  Fold 0: Epoch [ 55/100] | Train Loss: 0.1359 | Valid Loss: 0.1181 | Dice L: 0.8997 | Dice T: 0.7680 | Combined: 0.8207 | LR: 1.00e-05 | Time: 516.6s
+  Fold 1: Epoch [ 57/100] | Train Loss: 0.1738 | Valid Loss: 0.0793 | Dice L: 0.9001 | Dice T: 0.8412 | Combined: 0.8647 | LR: 1.00e-05 | Time: 513.4s
+  Fold 2: Epoch [ 37/100] | Train Loss: 0.1735 | Valid Loss: 0.1688 | Dice L: 0.8663 | Dice T: 0.7571 | Combined: 0.8008 | LR: 1.00e-04 | Time: 512.4s
+  Fold 3: Epoch [ 74/100] | Train Loss: 0.1770 | Valid Loss: 0.1171 | Dice L: 0.9047 | Dice T: 0.7902 | Combined: 0.8360 | LR: 1.00e-06 | Time: 516.6s
+  Fold 4: Epoch [ 52/100] | Train Loss: 0.1741 | Valid Loss: 0.1113 | Dice L: 0.8814 | Dice T: 0.8138 | Combined: 0.8408 | LR: 1.00e-05 | Time: 525.0s
+=== Sat May 16 02:49:38 CST 2026 ===
+  Fold 0: Epoch [ 55/100] | Train Loss: 0.1359 | Valid Loss: 0.1181 | Dice L: 0.8997 | Dice T: 0.7680 | Combined: 0.8207 | LR: 1.00e-05 | Time: 516.6s
+  Fold 1: Epoch [ 57/100] | Train Loss: 0.1738 | Valid Loss: 0.0793 | Dice L: 0.9001 | Dice T: 0.8412 | Combined: 0.8647 | LR: 1.00e-05 | Time: 513.4s
+  Fold 2: Epoch [ 37/100] | Train Loss: 0.1735 | Valid Loss: 0.1688 | Dice L: 0.8663 | Dice T: 0.7571 | Combined: 0.8008 | LR: 1.00e-04 | Time: 512.4s
+  Fold 3: Epoch [ 74/100] | Train Loss: 0.1770 | Valid Loss: 0.1171 | Dice L: 0.9047 | Dice T: 0.7902 | Combined: 0.8360 | LR: 1.00e-06 | Time: 516.6s
+  Fold 4: Epoch [ 53/100] | Train Loss: 0.1741 | Valid Loss: 0.1106 | Dice L: 0.8822 | Dice T: 0.8173 | Combined: 0.8433 | LR: 1.00e-05 | Time: 525.1s
+=== Sat May 16 02:54:40 CST 2026 ===
+  Fold 0: Epoch [ 55/100] | Train Loss: 0.1359 | Valid Loss: 0.1181 | Dice L: 0.8997 | Dice T: 0.7680 | Combined: 0.8207 | LR: 1.00e-05 | Time: 516.6s
+  Fold 1: Epoch [ 57/100] | Train Loss: 0.1738 | Valid Loss: 0.0793 | Dice L: 0.9001 | Dice T: 0.8412 | Combined: 0.8647 | LR: 1.00e-05 | Time: 513.4s
+  Fold 2: Epoch [ 37/100] | Train Loss: 0.1735 | Valid Loss: 0.1688 | Dice L: 0.8663 | Dice T: 0.7571 | Combined: 0.8008 | LR: 1.00e-04 | Time: 512.4s
+  Fold 3: Epoch [ 74/100] | Train Loss: 0.1770 | Valid Loss: 0.1171 | Dice L: 0.9047 | Dice T: 0.7902 | Combined: 0.8360 | LR: 1.00e-06 | Time: 516.6s
+  Fold 4: Epoch [ 53/100] | Train Loss: 0.1741 | Valid Loss: 0.1106 | Dice L: 0.8822 | Dice T: 0.8173 | Combined: 0.8433 | LR: 1.00e-05 | Time: 525.1s
+=== Sat May 16 02:59:43 CST 2026 ===
+  Fold 0: Epoch [ 55/100] | Train Loss: 0.1359 | Valid Loss: 0.1181 | Dice L: 0.8997 | Dice T: 0.7680 | Combined: 0.8207 | LR: 1.00e-05 | Time: 516.6s
+  Fold 1: Epoch [ 57/100] | Train Loss: 0.1738 | Valid Loss: 0.0793 | Dice L: 0.9001 | Dice T: 0.8412 | Combined: 0.8647 | LR: 1.00e-05 | Time: 513.4s
+  Fold 2: Epoch [ 37/100] | Train Loss: 0.1735 | Valid Loss: 0.1688 | Dice L: 0.8663 | Dice T: 0.7571 | Combined: 0.8008 | LR: 1.00e-04 | Time: 512.4s
+  Fold 3: Epoch [ 74/100] | Train Loss: 0.1770 | Valid Loss: 0.1171 | Dice L: 0.9047 | Dice T: 0.7902 | Combined: 0.8360 | LR: 1.00e-06 | Time: 516.6s
+  Fold 4: Epoch [ 54/100] | Train Loss: 0.1741 | Valid Loss: 0.1119 | Dice L: 0.8827 | Dice T: 0.8115 | Combined: 0.8400 | LR: 1.00e-05 | Time: 524.9s
+=== Sat May 16 03:04:45 CST 2026 ===
+  Fold 0: Epoch [ 55/100] | Train Loss: 0.1359 | Valid Loss: 0.1181 | Dice L: 0.8997 | Dice T: 0.7680 | Combined: 0.8207 | LR: 1.00e-05 | Time: 516.6s
+  Fold 1: Epoch [ 57/100] | Train Loss: 0.1738 | Valid Loss: 0.0793 | Dice L: 0.9001 | Dice T: 0.8412 | Combined: 0.8647 | LR: 1.00e-05 | Time: 513.4s
+  Fold 2: Epoch [ 37/100] | Train Loss: 0.1735 | Valid Loss: 0.1688 | Dice L: 0.8663 | Dice T: 0.7571 | Combined: 0.8008 | LR: 1.00e-04 | Time: 512.4s
+  Fold 3: Epoch [ 74/100] | Train Loss: 0.1770 | Valid Loss: 0.1171 | Dice L: 0.9047 | Dice T: 0.7902 | Combined: 0.8360 | LR: 1.00e-06 | Time: 516.6s
+  Fold 4: Epoch [ 55/100] | Train Loss: 0.1741 | Valid Loss: 0.1112 | Dice L: 0.8831 | Dice T: 0.8123 | Combined: 0.8406 | LR: 1.00e-05 | Time: 525.0s
+=== Sat May 16 03:09:48 CST 2026 ===
+  Fold 0: Epoch [ 55/100] | Train Loss: 0.1359 | Valid Loss: 0.1181 | Dice L: 0.8997 | Dice T: 0.7680 | Combined: 0.8207 | LR: 1.00e-05 | Time: 516.6s
+  Fold 1: Epoch [ 57/100] | Train Loss: 0.1738 | Valid Loss: 0.0793 | Dice L: 0.9001 | Dice T: 0.8412 | Combined: 0.8647 | LR: 1.00e-05 | Time: 513.4s
+  Fold 2: Epoch [ 37/100] | Train Loss: 0.1735 | Valid Loss: 0.1688 | Dice L: 0.8663 | Dice T: 0.7571 | Combined: 0.8008 | LR: 1.00e-04 | Time: 512.4s
+  Fold 3: Epoch [ 74/100] | Train Loss: 0.1770 | Valid Loss: 0.1171 | Dice L: 0.9047 | Dice T: 0.7902 | Combined: 0.8360 | LR: 1.00e-06 | Time: 516.6s
+  Fold 4: Epoch [ 55/100] | Train Loss: 0.1741 | Valid Loss: 0.1112 | Dice L: 0.8831 | Dice T: 0.8123 | Combined: 0.8406 | LR: 1.00e-05 | Time: 525.0s
+Training finished at Sat May 16 03:14:50 CST 2026, shutting down...
+bash: line 5: sudo: command not found

@@ -1,0 +1,142 @@
+nohup: ignoring input
+============================================
+  Chain: unet_pp -> attention_unet_pp
+  Started at Thu May 14 00:44:25 CST 2026
+============================================
+[00:44] Epoch [ 25/100] | Train Loss: 0.1806 | Valid Loss: 0.1214 | Dice L: 0.8993 | Dice T: 0.7861 | Combined: 0.8313 | LR: 1.00e-04 | Time: 408.6s
+[00:49] Epoch [ 26/100] | Train Loss: 0.1801 | Valid Loss: 0.1150 | Dice L: 0.8965 | Dice T: 0.7808 | Combined: 0.8271 | LR: 1.00e-04 | Time: 408.5s
+[00:54] Epoch [ 27/100] | Train Loss: 0.1795 | Valid Loss: 0.1158 | Dice L: 0.8978 | Dice T: 0.7841 | Combined: 0.8296 | LR: 1.00e-04 | Time: 408.9s
+[00:59] Epoch [ 27/100] | Train Loss: 0.1795 | Valid Loss: 0.1158 | Dice L: 0.8978 | Dice T: 0.7841 | Combined: 0.8296 | LR: 1.00e-04 | Time: 408.9s
+[01:04] Epoch [ 28/100] | Train Loss: 0.1789 | Valid Loss: 0.1122 | Dice L: 0.8990 | Dice T: 0.7865 | Combined: 0.8315 | LR: 1.00e-04 | Time: 409.6s
+[01:09] Epoch [ 29/100] | Train Loss: 0.1783 | Valid Loss: 0.1139 | Dice L: 0.8943 | Dice T: 0.7851 | Combined: 0.8288 | LR: 1.00e-04 | Time: 410.4s
+[01:14] Epoch [ 29/100] | Train Loss: 0.1783 | Valid Loss: 0.1139 | Dice L: 0.8943 | Dice T: 0.7851 | Combined: 0.8288 | LR: 1.00e-04 | Time: 410.4s
+[01:19] Epoch [ 30/100] | Train Loss: 0.1781 | Valid Loss: 0.1147 | Dice L: 0.8996 | Dice T: 0.7823 | Combined: 0.8292 | LR: 1.00e-04 | Time: 408.8s
+[01:24] Epoch [ 31/100] | Train Loss: 0.1782 | Valid Loss: 0.1122 | Dice L: 0.8990 | Dice T: 0.7857 | Combined: 0.8310 | LR: 1.00e-04 | Time: 409.2s
+[01:29] Epoch [ 32/100] | Train Loss: 0.1775 | Valid Loss: 0.1135 | Dice L: 0.8985 | Dice T: 0.7791 | Combined: 0.8269 | LR: 1.00e-04 | Time: 409.3s
+[01:34] Epoch [ 32/100] | Train Loss: 0.1775 | Valid Loss: 0.1135 | Dice L: 0.8985 | Dice T: 0.7791 | Combined: 0.8269 | LR: 1.00e-04 | Time: 409.3s
+[01:39] Epoch [ 33/100] | Train Loss: 0.1775 | Valid Loss: 0.1161 | Dice L: 0.8984 | Dice T: 0.7866 | Combined: 0.8313 | LR: 1.00e-04 | Time: 409.3s
+[01:44] Epoch [ 34/100] | Train Loss: 0.1559 | Valid Loss: 0.1135 | Dice L: 0.8972 | Dice T: 0.7889 | Combined: 0.8322 | LR: 1.00e-04 | Time: 409.1s
+[01:49] Epoch [ 35/100] | Train Loss: 0.1432 | Valid Loss: 0.1128 | Dice L: 0.9001 | Dice T: 0.7902 | Combined: 0.8342 | LR: 1.00e-04 | Time: 409.0s
+[01:54] Epoch [ 35/100] | Train Loss: 0.1432 | Valid Loss: 0.1128 | Dice L: 0.9001 | Dice T: 0.7902 | Combined: 0.8342 | LR: 1.00e-04 | Time: 409.0s
+[01:59] Epoch [ 36/100] | Train Loss: 0.1417 | Valid Loss: 0.1125 | Dice L: 0.8977 | Dice T: 0.7924 | Combined: 0.8345 | LR: 1.00e-04 | Time: 408.9s
+[02:04] Epoch [ 37/100] | Train Loss: 0.1407 | Valid Loss: 0.1095 | Dice L: 0.9006 | Dice T: 0.7899 | Combined: 0.8342 | LR: 1.00e-04 | Time: 409.0s
+[02:09] Epoch [ 38/100] | Train Loss: 0.1398 | Valid Loss: 0.1248 | Dice L: 0.8973 | Dice T: 0.7838 | Combined: 0.8292 | LR: 1.00e-04 | Time: 408.9s
+[02:14] Epoch [ 38/100] | Train Loss: 0.1398 | Valid Loss: 0.1248 | Dice L: 0.8973 | Dice T: 0.7838 | Combined: 0.8292 | LR: 1.00e-04 | Time: 408.9s
+[02:19] Epoch [ 39/100] | Train Loss: 0.1390 | Valid Loss: 0.1144 | Dice L: 0.8993 | Dice T: 0.7858 | Combined: 0.8312 | LR: 1.00e-04 | Time: 408.9s
+[02:24] Epoch [ 40/100] | Train Loss: 0.1382 | Valid Loss: 0.1146 | Dice L: 0.8937 | Dice T: 0.7865 | Combined: 0.8293 | LR: 1.00e-04 | Time: 409.0s
+[02:29] Epoch [ 41/100] | Train Loss: 0.1376 | Valid Loss: 0.1161 | Dice L: 0.8952 | Dice T: 0.7843 | Combined: 0.8287 | LR: 1.00e-05 | Time: 409.0s
+[02:34] Epoch [ 41/100] | Train Loss: 0.1376 | Valid Loss: 0.1161 | Dice L: 0.8952 | Dice T: 0.7843 | Combined: 0.8287 | LR: 1.00e-05 | Time: 409.0s
+[02:39] Epoch [ 42/100] | Train Loss: 0.1370 | Valid Loss: 0.1213 | Dice L: 0.8999 | Dice T: 0.7829 | Combined: 0.8297 | LR: 1.00e-05 | Time: 408.9s
+[02:45] Epoch [ 43/100] | Train Loss: 0.1367 | Valid Loss: 0.1166 | Dice L: 0.8982 | Dice T: 0.7854 | Combined: 0.8305 | LR: 1.00e-05 | Time: 409.2s
+[02:50] Epoch [ 43/100] | Train Loss: 0.1367 | Valid Loss: 0.1166 | Dice L: 0.8982 | Dice T: 0.7854 | Combined: 0.8305 | LR: 1.00e-05 | Time: 409.2s
+[02:55] Epoch [ 44/100] | Train Loss: 0.1367 | Valid Loss: 0.1121 | Dice L: 0.8952 | Dice T: 0.7887 | Combined: 0.8313 | LR: 1.00e-05 | Time: 409.0s
+[03:00] Epoch [ 45/100] | Train Loss: 0.1363 | Valid Loss: 0.1122 | Dice L: 0.8939 | Dice T: 0.7903 | Combined: 0.8317 | LR: 1.00e-05 | Time: 408.8s
+[03:05] Epoch [ 46/100] | Train Loss: 0.1366 | Valid Loss: 0.1153 | Dice L: 0.8993 | Dice T: 0.7865 | Combined: 0.8316 | LR: 1.00e-05 | Time: 408.9s
+[03:10] Epoch [ 46/100] | Train Loss: 0.1366 | Valid Loss: 0.1153 | Dice L: 0.8993 | Dice T: 0.7865 | Combined: 0.8316 | LR: 1.00e-05 | Time: 408.9s
+[03:15] Epoch [ 47/100] | Train Loss: 0.1368 | Valid Loss: 0.1172 | Dice L: 0.8994 | Dice T: 0.7874 | Combined: 0.8322 | LR: 1.00e-05 | Time: 408.8s
+[03:20] Epoch [ 48/100] | Train Loss: 0.1367 | Valid Loss: 0.1165 | Dice L: 0.9015 | Dice T: 0.7888 | Combined: 0.8339 | LR: 1.00e-05 | Time: 408.8s
+[03:25] Epoch [ 49/100] | Train Loss: 0.1361 | Valid Loss: 0.1162 | Dice L: 0.8989 | Dice T: 0.7897 | Combined: 0.8334 | LR: 1.00e-05 | Time: 408.7s
+[03:30] Epoch [ 49/100] | Train Loss: 0.1361 | Valid Loss: 0.1162 | Dice L: 0.8989 | Dice T: 0.7897 | Combined: 0.8334 | LR: 1.00e-05 | Time: 408.7s
+[03:35] Epoch [ 50/100] | Train Loss: 0.1361 | Valid Loss: 0.1125 | Dice L: 0.8965 | Dice T: 0.7914 | Combined: 0.8334 | LR: 1.00e-05 | Time: 408.6s
+[03:40] Epoch [ 51/100] | Train Loss: 0.1367 | Valid Loss: 0.1155 | Dice L: 0.9005 | Dice T: 0.7910 | Combined: 0.8348 | LR: 1.00e-05 | Time: 408.5s
+[03:45] Epoch [ 52/100] | Train Loss: 0.1363 | Valid Loss: 0.1153 | Dice L: 0.8984 | Dice T: 0.7868 | Combined: 0.8315 | LR: 1.00e-05 | Time: 408.7s
+[03:50] Epoch [ 52/100] | Train Loss: 0.1363 | Valid Loss: 0.1153 | Dice L: 0.8984 | Dice T: 0.7868 | Combined: 0.8315 | LR: 1.00e-05 | Time: 408.7s
+[03:55] Epoch [ 53/100] | Train Loss: 0.1357 | Valid Loss: 0.1201 | Dice L: 0.9005 | Dice T: 0.7825 | Combined: 0.8297 | LR: 1.00e-05 | Time: 408.7s
+[04:00] Epoch [ 54/100] | Train Loss: 0.1362 | Valid Loss: 0.1161 | Dice L: 0.8973 | Dice T: 0.7878 | Combined: 0.8316 | LR: 1.00e-05 | Time: 408.5s
+[04:05] Epoch [ 55/100] | Train Loss: 0.1361 | Valid Loss: 0.1179 | Dice L: 0.8980 | Dice T: 0.7879 | Combined: 0.8319 | LR: 1.00e-05 | Time: 408.5s
+[04:10] Epoch [ 55/100] | Train Loss: 0.1361 | Valid Loss: 0.1179 | Dice L: 0.8980 | Dice T: 0.7879 | Combined: 0.8319 | LR: 1.00e-05 | Time: 408.5s
+[04:15] Epoch [ 56/100] | Train Loss: 0.1357 | Valid Loss: 0.1142 | Dice L: 0.8973 | Dice T: 0.7898 | Combined: 0.8328 | LR: 1.00e-05 | Time: 409.0s
+[04:20] Epoch [ 57/100] | Train Loss: 0.1357 | Valid Loss: 0.1151 | Dice L: 0.8977 | Dice T: 0.7920 | Combined: 0.8343 | LR: 1.00e-05 | Time: 408.6s
+[04:25] Epoch [ 57/100] | Train Loss: 0.1357 | Valid Loss: 0.1151 | Dice L: 0.8977 | Dice T: 0.7920 | Combined: 0.8343 | LR: 1.00e-05 | Time: 408.6s
+[04:30] Epoch [ 58/100] | Train Loss: 0.1358 | Valid Loss: 0.1156 | Dice L: 0.8985 | Dice T: 0.7855 | Combined: 0.8307 | LR: 1.00e-05 | Time: 408.7s
+[04:35] Epoch [ 59/100] | Train Loss: 0.1356 | Valid Loss: 0.1200 | Dice L: 0.8981 | Dice T: 0.7846 | Combined: 0.8300 | LR: 1.00e-05 | Time: 408.5s
+[04:40] Epoch [ 60/100] | Train Loss: 0.1357 | Valid Loss: 0.1161 | Dice L: 0.8977 | Dice T: 0.7877 | Combined: 0.8317 | LR: 1.00e-05 | Time: 408.5s
+[04:45] Epoch [ 60/100] | Train Loss: 0.1357 | Valid Loss: 0.1161 | Dice L: 0.8977 | Dice T: 0.7877 | Combined: 0.8317 | LR: 1.00e-05 | Time: 408.5s
+[04:50] Epoch [ 61/100] | Train Loss: 0.1359 | Valid Loss: 0.1149 | Dice L: 0.8968 | Dice T: 0.7871 | Combined: 0.8310 | LR: 1.00e-06 | Time: 408.5s
+[04:55] Epoch [ 62/100] | Train Loss: 0.1355 | Valid Loss: 0.1180 | Dice L: 0.8988 | Dice T: 0.7856 | Combined: 0.8309 | LR: 1.00e-06 | Time: 408.2s
+[05:00] Epoch [ 63/100] | Train Loss: 0.1353 | Valid Loss: 0.1171 | Dice L: 0.8987 | Dice T: 0.7869 | Combined: 0.8316 | LR: 1.00e-06 | Time: 408.7s
+[05:05] Epoch [ 63/100] | Train Loss: 0.1353 | Valid Loss: 0.1171 | Dice L: 0.8987 | Dice T: 0.7869 | Combined: 0.8316 | LR: 1.00e-06 | Time: 408.7s
+[05:10] Epoch [ 64/100] | Train Loss: 0.1359 | Valid Loss: 0.1194 | Dice L: 0.8994 | Dice T: 0.7884 | Combined: 0.8328 | LR: 1.00e-06 | Time: 408.5s
+[05:15] Epoch [ 65/100] | Train Loss: 0.1355 | Valid Loss: 0.1178 | Dice L: 0.9013 | Dice T: 0.7888 | Combined: 0.8338 | LR: 1.00e-06 | Time: 408.7s
+[05:20] Epoch [ 66/100] | Train Loss: 0.1352 | Valid Loss: 0.1161 | Dice L: 0.8990 | Dice T: 0.7882 | Combined: 0.8325 | LR: 1.00e-06 | Time: 408.6s
+[05:25] Epoch [ 66/100] | Train Loss: 0.1352 | Valid Loss: 0.1161 | Dice L: 0.8990 | Dice T: 0.7882 | Combined: 0.8325 | LR: 1.00e-06 | Time: 408.6s
+[05:30] Epoch [  1/100] | Train Loss: 0.3541 | Valid Loss: 0.3182 | Dice L: 0.7506 | Dice T: 0.3041 | Combined: 0.4827 | LR: 1.00e-03 | Time: 419.4s
+[05:35] Epoch [  2/100] | Train Loss: 0.3160 | Valid Loss: 0.3155 | Dice L: 0.7524 | Dice T: 0.3695 | Combined: 0.5227 | LR: 1.00e-03 | Time: 418.4s
+[05:40] Epoch [  2/100] | Train Loss: 0.3160 | Valid Loss: 0.3155 | Dice L: 0.7524 | Dice T: 0.3695 | Combined: 0.5227 | LR: 1.00e-03 | Time: 418.4s
+[05:45] Epoch [  3/100] | Train Loss: 0.3005 | Valid Loss: 0.2867 | Dice L: 0.8327 | Dice T: 0.4519 | Combined: 0.6042 | LR: 1.00e-03 | Time: 418.1s
+[05:50] Epoch [  4/100] | Train Loss: 0.2926 | Valid Loss: 0.2837 | Dice L: 0.8504 | Dice T: 0.5584 | Combined: 0.6752 | LR: 1.00e-03 | Time: 418.6s
+[05:55] Epoch [  5/100] | Train Loss: 0.2865 | Valid Loss: 0.2895 | Dice L: 0.8399 | Dice T: 0.3705 | Combined: 0.5583 | LR: 1.00e-03 | Time: 418.3s
+[06:01] Epoch [  5/100] | Train Loss: 0.2865 | Valid Loss: 0.2895 | Dice L: 0.8399 | Dice T: 0.3705 | Combined: 0.5583 | LR: 1.00e-03 | Time: 418.3s
+[06:06] Epoch [  6/100] | Train Loss: 0.2820 | Valid Loss: 0.2757 | Dice L: 0.8669 | Dice T: 0.6364 | Combined: 0.7286 | LR: 1.00e-03 | Time: 418.2s
+[06:11] Epoch [  7/100] | Train Loss: 0.2453 | Valid Loss: 0.1411 | Dice L: 0.8530 | Dice T: 0.7567 | Combined: 0.7952 | LR: 1.00e-03 | Time: 418.4s
+[06:16] Epoch [  8/100] | Train Loss: 0.2248 | Valid Loss: 0.1508 | Dice L: 0.8347 | Dice T: 0.7361 | Combined: 0.7756 | LR: 1.00e-03 | Time: 417.9s
+[06:21] Epoch [  8/100] | Train Loss: 0.2248 | Valid Loss: 0.1508 | Dice L: 0.8347 | Dice T: 0.7361 | Combined: 0.7756 | LR: 1.00e-03 | Time: 417.9s
+[06:26] Epoch [  9/100] | Train Loss: 0.2199 | Valid Loss: 0.1459 | Dice L: 0.8450 | Dice T: 0.7624 | Combined: 0.7955 | LR: 1.00e-03 | Time: 418.0s
+[06:31] Epoch [ 10/100] | Train Loss: 0.2141 | Valid Loss: 0.1563 | Dice L: 0.7853 | Dice T: 0.7607 | Combined: 0.7706 | LR: 1.00e-03 | Time: 417.9s
+[06:36] Epoch [ 10/100] | Train Loss: 0.2141 | Valid Loss: 0.1563 | Dice L: 0.7853 | Dice T: 0.7607 | Combined: 0.7706 | LR: 1.00e-03 | Time: 417.9s
+[06:41] Epoch [ 11/100] | Train Loss: 0.2181 | Valid Loss: 0.1556 | Dice L: 0.8218 | Dice T: 0.7311 | Combined: 0.7674 | LR: 1.00e-03 | Time: 417.8s
+[06:46] Epoch [ 12/100] | Train Loss: 0.2147 | Valid Loss: 0.1395 | Dice L: 0.8470 | Dice T: 0.7587 | Combined: 0.7940 | LR: 1.00e-03 | Time: 418.1s
+[06:51] Epoch [ 13/100] | Train Loss: 0.2119 | Valid Loss: 0.4043 | Dice L: 0.4474 | Dice T: 0.6241 | Combined: 0.5534 | LR: 1.00e-03 | Time: 418.5s
+[06:56] Epoch [ 13/100] | Train Loss: 0.2119 | Valid Loss: 0.4043 | Dice L: 0.4474 | Dice T: 0.6241 | Combined: 0.5534 | LR: 1.00e-03 | Time: 418.5s
+[07:01] Epoch [ 14/100] | Train Loss: 0.2129 | Valid Loss: 0.1272 | Dice L: 0.8696 | Dice T: 0.7797 | Combined: 0.8157 | LR: 1.00e-03 | Time: 417.9s
+[07:06] Epoch [ 15/100] | Train Loss: 0.2117 | Valid Loss: 0.1260 | Dice L: 0.8695 | Dice T: 0.7742 | Combined: 0.8123 | LR: 1.00e-03 | Time: 418.6s
+[07:11] Epoch [ 15/100] | Train Loss: 0.2117 | Valid Loss: 0.1260 | Dice L: 0.8695 | Dice T: 0.7742 | Combined: 0.8123 | LR: 1.00e-03 | Time: 418.6s
+[07:16] Epoch [ 16/100] | Train Loss: 0.2059 | Valid Loss: 0.1340 | Dice L: 0.8582 | Dice T: 0.7578 | Combined: 0.7980 | LR: 1.00e-03 | Time: 417.9s
+[07:21] Epoch [ 17/100] | Train Loss: 0.2071 | Valid Loss: 0.1388 | Dice L: 0.8534 | Dice T: 0.7736 | Combined: 0.8055 | LR: 1.00e-03 | Time: 417.9s
+[07:26] Epoch [ 18/100] | Train Loss: 0.2092 | Valid Loss: 0.1255 | Dice L: 0.8675 | Dice T: 0.7777 | Combined: 0.8136 | LR: 1.00e-03 | Time: 418.0s
+[07:31] Epoch [ 18/100] | Train Loss: 0.2092 | Valid Loss: 0.1255 | Dice L: 0.8675 | Dice T: 0.7777 | Combined: 0.8136 | LR: 1.00e-03 | Time: 418.0s
+[07:36] Epoch [ 19/100] | Train Loss: 0.2047 | Valid Loss: 0.1276 | Dice L: 0.8583 | Dice T: 0.7818 | Combined: 0.8124 | LR: 1.00e-03 | Time: 418.1s
+[07:41] Epoch [ 20/100] | Train Loss: 0.2041 | Valid Loss: 0.1305 | Dice L: 0.8685 | Dice T: 0.7669 | Combined: 0.8075 | LR: 1.00e-03 | Time: 417.9s
+[07:46] Epoch [ 21/100] | Train Loss: 0.1945 | Valid Loss: 0.1166 | Dice L: 0.8768 | Dice T: 0.7962 | Combined: 0.8285 | LR: 1.00e-04 | Time: 418.4s
+[07:51] Epoch [ 21/100] | Train Loss: 0.1945 | Valid Loss: 0.1166 | Dice L: 0.8768 | Dice T: 0.7962 | Combined: 0.8285 | LR: 1.00e-04 | Time: 418.4s
+[07:56] Epoch [ 22/100] | Train Loss: 0.1891 | Valid Loss: 0.1146 | Dice L: 0.8784 | Dice T: 0.8031 | Combined: 0.8332 | LR: 1.00e-04 | Time: 418.2s
+[08:01] Epoch [ 23/100] | Train Loss: 0.1883 | Valid Loss: 0.1166 | Dice L: 0.8788 | Dice T: 0.7919 | Combined: 0.8267 | LR: 1.00e-04 | Time: 417.9s
+[08:06] Epoch [ 23/100] | Train Loss: 0.1883 | Valid Loss: 0.1166 | Dice L: 0.8788 | Dice T: 0.7919 | Combined: 0.8267 | LR: 1.00e-04 | Time: 417.9s
+[08:11] Epoch [ 24/100] | Train Loss: 0.1864 | Valid Loss: 0.1146 | Dice L: 0.8815 | Dice T: 0.8025 | Combined: 0.8341 | LR: 1.00e-04 | Time: 417.9s
+[08:16] Epoch [ 25/100] | Train Loss: 0.1853 | Valid Loss: 0.1136 | Dice L: 0.8822 | Dice T: 0.8022 | Combined: 0.8342 | LR: 1.00e-04 | Time: 418.0s
+[08:21] Epoch [ 26/100] | Train Loss: 0.1851 | Valid Loss: 0.1141 | Dice L: 0.8797 | Dice T: 0.7964 | Combined: 0.8297 | LR: 1.00e-04 | Time: 418.6s
+[08:26] Epoch [ 26/100] | Train Loss: 0.1851 | Valid Loss: 0.1141 | Dice L: 0.8797 | Dice T: 0.7964 | Combined: 0.8297 | LR: 1.00e-04 | Time: 418.6s
+[08:31] Epoch [ 27/100] | Train Loss: 0.1841 | Valid Loss: 0.1165 | Dice L: 0.8778 | Dice T: 0.7953 | Combined: 0.8283 | LR: 1.00e-04 | Time: 418.2s
+[08:36] Epoch [ 28/100] | Train Loss: 0.1838 | Valid Loss: 0.1144 | Dice L: 0.8819 | Dice T: 0.7956 | Combined: 0.8301 | LR: 1.00e-04 | Time: 418.3s
+[08:41] Epoch [ 28/100] | Train Loss: 0.1838 | Valid Loss: 0.1144 | Dice L: 0.8819 | Dice T: 0.7956 | Combined: 0.8301 | LR: 1.00e-04 | Time: 418.3s
+[08:46] Epoch [ 29/100] | Train Loss: 0.1832 | Valid Loss: 0.1120 | Dice L: 0.8807 | Dice T: 0.8061 | Combined: 0.8360 | LR: 1.00e-04 | Time: 418.2s
+[08:52] Epoch [ 30/100] | Train Loss: 0.1831 | Valid Loss: 0.1107 | Dice L: 0.8826 | Dice T: 0.8099 | Combined: 0.8389 | LR: 1.00e-04 | Time: 418.9s
+[08:57] Epoch [ 31/100] | Train Loss: 0.1827 | Valid Loss: 0.1106 | Dice L: 0.8802 | Dice T: 0.8125 | Combined: 0.8396 | LR: 1.00e-04 | Time: 418.0s
+[09:02] Epoch [ 31/100] | Train Loss: 0.1827 | Valid Loss: 0.1106 | Dice L: 0.8802 | Dice T: 0.8125 | Combined: 0.8396 | LR: 1.00e-04 | Time: 418.0s
+[09:07] Epoch [ 32/100] | Train Loss: 0.1822 | Valid Loss: 0.1131 | Dice L: 0.8817 | Dice T: 0.8067 | Combined: 0.8367 | LR: 1.00e-04 | Time: 418.2s
+[09:12] Epoch [ 33/100] | Train Loss: 0.1824 | Valid Loss: 0.1148 | Dice L: 0.8818 | Dice T: 0.7976 | Combined: 0.8313 | LR: 1.00e-04 | Time: 419.4s
+[09:17] Epoch [ 33/100] | Train Loss: 0.1824 | Valid Loss: 0.1148 | Dice L: 0.8818 | Dice T: 0.7976 | Combined: 0.8313 | LR: 1.00e-04 | Time: 419.4s
+[09:22] Epoch [ 34/100] | Train Loss: 0.1819 | Valid Loss: 0.1123 | Dice L: 0.8825 | Dice T: 0.8092 | Combined: 0.8385 | LR: 1.00e-04 | Time: 417.7s
+[09:27] Epoch [ 35/100] | Train Loss: 0.1818 | Valid Loss: 0.1108 | Dice L: 0.8810 | Dice T: 0.8125 | Combined: 0.8399 | LR: 1.00e-04 | Time: 417.9s
+[09:32] Epoch [ 36/100] | Train Loss: 0.1809 | Valid Loss: 0.1135 | Dice L: 0.8839 | Dice T: 0.8013 | Combined: 0.8343 | LR: 1.00e-04 | Time: 417.4s
+[09:37] Epoch [ 36/100] | Train Loss: 0.1809 | Valid Loss: 0.1135 | Dice L: 0.8839 | Dice T: 0.8013 | Combined: 0.8343 | LR: 1.00e-04 | Time: 417.4s
+[09:42] Epoch [ 37/100] | Train Loss: 0.1809 | Valid Loss: 0.1129 | Dice L: 0.8842 | Dice T: 0.8037 | Combined: 0.8359 | LR: 1.00e-04 | Time: 417.9s
+[09:47] Epoch [ 38/100] | Train Loss: 0.1809 | Valid Loss: 0.1141 | Dice L: 0.8818 | Dice T: 0.7977 | Combined: 0.8314 | LR: 1.00e-04 | Time: 418.3s
+[09:52] Epoch [ 39/100] | Train Loss: 0.1804 | Valid Loss: 0.1156 | Dice L: 0.8790 | Dice T: 0.7973 | Combined: 0.8300 | LR: 1.00e-04 | Time: 418.6s
+[09:57] Epoch [ 39/100] | Train Loss: 0.1804 | Valid Loss: 0.1156 | Dice L: 0.8790 | Dice T: 0.7973 | Combined: 0.8300 | LR: 1.00e-04 | Time: 418.6s
+[10:02] Epoch [ 40/100] | Train Loss: 0.1803 | Valid Loss: 0.1139 | Dice L: 0.8825 | Dice T: 0.8001 | Combined: 0.8331 | LR: 1.00e-04 | Time: 418.8s
+[10:07] Epoch [ 41/100] | Train Loss: 0.1792 | Valid Loss: 0.1107 | Dice L: 0.8837 | Dice T: 0.8094 | Combined: 0.8391 | LR: 1.00e-05 | Time: 418.7s
+[10:12] Epoch [ 41/100] | Train Loss: 0.1792 | Valid Loss: 0.1107 | Dice L: 0.8837 | Dice T: 0.8094 | Combined: 0.8391 | LR: 1.00e-05 | Time: 418.7s
+[10:17] Epoch [ 42/100] | Train Loss: 0.1788 | Valid Loss: 0.1117 | Dice L: 0.8817 | Dice T: 0.8058 | Combined: 0.8362 | LR: 1.00e-05 | Time: 418.6s
+[10:22] Epoch [ 43/100] | Train Loss: 0.1787 | Valid Loss: 0.1121 | Dice L: 0.8837 | Dice T: 0.8065 | Combined: 0.8374 | LR: 1.00e-05 | Time: 418.4s
+[10:27] Epoch [ 44/100] | Train Loss: 0.1790 | Valid Loss: 0.1113 | Dice L: 0.8848 | Dice T: 0.8035 | Combined: 0.8360 | LR: 1.00e-05 | Time: 419.6s
+[10:32] Epoch [ 44/100] | Train Loss: 0.1790 | Valid Loss: 0.1113 | Dice L: 0.8848 | Dice T: 0.8035 | Combined: 0.8360 | LR: 1.00e-05 | Time: 419.6s
+[10:37] Epoch [ 45/100] | Train Loss: 0.1788 | Valid Loss: 0.1118 | Dice L: 0.8825 | Dice T: 0.8058 | Combined: 0.8365 | LR: 1.00e-05 | Time: 419.6s
+[10:42] Epoch [ 46/100] | Train Loss: 0.1784 | Valid Loss: 0.1112 | Dice L: 0.8849 | Dice T: 0.8073 | Combined: 0.8383 | LR: 1.00e-05 | Time: 418.6s
+[10:47] Epoch [ 46/100] | Train Loss: 0.1784 | Valid Loss: 0.1112 | Dice L: 0.8849 | Dice T: 0.8073 | Combined: 0.8383 | LR: 1.00e-05 | Time: 418.6s
+[10:52] Epoch [ 47/100] | Train Loss: 0.1784 | Valid Loss: 0.1109 | Dice L: 0.8853 | Dice T: 0.8053 | Combined: 0.8373 | LR: 1.00e-05 | Time: 418.4s
+[10:57] Epoch [ 48/100] | Train Loss: 0.1788 | Valid Loss: 0.1115 | Dice L: 0.8843 | Dice T: 0.8053 | Combined: 0.8369 | LR: 1.00e-05 | Time: 418.3s
+[11:02] Epoch [ 49/100] | Train Loss: 0.1782 | Valid Loss: 0.1105 | Dice L: 0.8850 | Dice T: 0.8094 | Combined: 0.8396 | LR: 1.00e-05 | Time: 418.7s
+[11:07] Epoch [ 49/100] | Train Loss: 0.1782 | Valid Loss: 0.1105 | Dice L: 0.8850 | Dice T: 0.8094 | Combined: 0.8396 | LR: 1.00e-05 | Time: 418.7s
+
+=== unet_pp FINISHED at Thu May 14 11:12:53 CST 2026 ===
+Fold 0 done at Wed May 13 11:38:26 CST 2026
+Fold 1 done at Wed May 13 16:51:13 CST 2026
+Fold 2 done at Wed May 13 21:49:52 CST 2026
+Fold 3 done at Thu May 14 05:20:01 CST 2026
+Fold 4 done at Thu May 14 11:08:50 CST 2026
+Created experiments/configs/attention_unet_pp.yaml
+Starting attention_unet_pp at Thu May 14 11:12:53 CST 2026...
+PID: 117783
+Log: logs/attention_unet_pp_master.log
+=== Chain script exiting at Thu May 14 11:12:53 CST 2026 ===
