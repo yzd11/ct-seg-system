@@ -40,3 +40,4 @@ frontend/dist/
 .vscode/
 *.iml
 *_fold*.log
+CLAUDE.md
